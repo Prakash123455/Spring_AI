@@ -1,0 +1,1 @@
+what is {techName}? & explain major concept.

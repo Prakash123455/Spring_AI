@@ -1,0 +1,1 @@
+Give answer as per 10 year software developer
